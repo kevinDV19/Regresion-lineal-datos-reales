@@ -18,5 +18,5 @@ Duarte Vázquez Kevin Alexis.
 <h3> Resultados: </h3>
 <img src="Resultadoss/resultado.jpg">
 
-<h3> GRafica: </h3>
+<h3> Grafica: </h3>
 <img src="Resultadoss/grafica.jpg">
