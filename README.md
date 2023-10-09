@@ -14,6 +14,7 @@ Duarte Vázquez Kevin Alexis.
 <h3> Cargar datos de archivo .csv: </h3>
 <img src="Resultados/cargar_datos.jpg">
 
+
 <h3> Resultados: </h3>
 <img src="Resultados/resultado.jpg">
 
