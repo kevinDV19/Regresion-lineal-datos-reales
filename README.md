@@ -12,11 +12,11 @@ Duarte Vázquez Kevin Alexis.
 
 # Resultados:
 <h3> Cargar datos de archivo .csv: </h3>
-<img src="Resultados/cargar_datos.jpg">
+<img src="Resultadoss/cargar_datos.jpg">
 
 
 <h3> Resultados: </h3>
-<img src="Resultados/resultado.jpg">
+<img src="Resultadoss/resultado.jpg">
 
 <h3> GRafica: </h3>
-<img src="Resultados/grafica.jpg">
+<img src="Resultadoss/grafica.jpg">
